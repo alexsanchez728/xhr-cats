@@ -1,3 +1,18 @@
 body {
-	background-color: green;
+	background-color: #c0ffee;
+}
+.cat {
+	height: 300px;
+	width: 300px;
+	display: inline-block;
+	margin: 25px 2%;
+	text-align: center;
+	border: 3px dotted black;
+}
+.cat img {
+	height: 200px;
+	width: 300px;
+}
+.cat h3, h5 {
+	margin: 20px 0;
 }
